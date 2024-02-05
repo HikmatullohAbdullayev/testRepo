@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    max-width: 1440px;
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+body{
+    background-color:  #f7f7f8;
+}
+
