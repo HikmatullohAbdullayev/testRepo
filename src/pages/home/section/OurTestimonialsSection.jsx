@@ -1,6 +1,6 @@
 import React from 'react';
 import SectionTop from './components/SectionTop';
-import  testominalsData  from './data/testominalsData.js';
+import  testominalsData  from '../section/data/TestominalsData.js';
 
 
 function OurTestimonialsSection(props) {
