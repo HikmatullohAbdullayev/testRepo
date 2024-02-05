@@ -1,4 +1,4 @@
-export const testominalsData = [
+const testominalsData = [
     {
         id:"1",
         img:"../../../../../src/assets/img/sarah.png",
@@ -24,3 +24,5 @@ export const testominalsData = [
         content:"The UI/UX design course exceeded my expectations. The instructor's expertise and practical assignments helped me improve my design skills. I feel more confident in my career now. Thank you!",
     },
 ]
+
+export default testominalsData

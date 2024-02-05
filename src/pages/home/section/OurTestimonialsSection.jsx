@@ -1,6 +1,7 @@
 import React from 'react';
 import SectionTop from './components/SectionTop';
-import { testominalsData } from './data/testominalsData.js';
+import  testominalsData  from './data/testominalsData.js';
+
 
 function OurTestimonialsSection(props) {
     return (
@@ -17,7 +18,7 @@ function OurTestimonialsSection(props) {
                             <img src={item.img} alt="img" />
                             <h3>{item.name}</h3>
                         </div>
-                        <p className=' p-10 bg-background cursor-pointer rounded-8 hover:bg-primary hover:text-white'> Read Full Story</p>
+                        <p className=' p-10 bg-background cursor-pointer rounded-8 hover:bg-primary hover:text-white'> Read Full + Story</p>
                     </div>
                 </div>
             ))
